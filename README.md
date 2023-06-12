@@ -2,18 +2,17 @@
 - 👀 I’m interested in ...
   - Activism
   - Privacy
-  - Autistic People's Rights
-  - Sex Worker's Rights
-  - Child Sex Abuse Prevention
+  - Human Rights
+    - Autistic People's Rights
+    - Sex Worker's Rights
   - Aviation
   - Space
-  - Gaming
+  - Video games
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
   - Email: joshua@joshuacasey.net
-  - Session: 0500549cc2681106711027708b4b3ff0157c3ded96cc4f3e524ecfeb196c75cc21
-
+  
 
 <!---
 JoshuaACasey/JoshuaACasey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
