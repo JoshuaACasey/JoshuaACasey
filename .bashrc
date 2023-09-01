@@ -25,3 +25,9 @@ alias rpi='ssh joshua@192.168.0.109'
 alias kbteam='cd /keybase/team/joshuaacasey_'
 alias kbpub='cd /keybase/public/joshuaacasey'
 alias kbpriv='cd /keybase/private/joshuaacasey'
+
+alias docker-clean=' \
+  docker container prune -f ; \
+  docker image prune -f ; \
+  docker network prune -f ; \
+  docker volume prune -f '
