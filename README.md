@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @JoshuaACasey
 - 👀 I’m interested in ...
   - Activism
-  - Privacy
-  - Human Rights
-    - Free Speech
-    - Autistic People's Rights
-    - Sex Worker's Rights
+    - Privacy
+    - Human Rights
+      - Free Speech
+      - Autistic People's Rights
+      - Sex Worker's Rights
   - Aviation
     - Microsoft Flight Simulator
   - Space
@@ -15,7 +15,6 @@
 - 📫 How to reach me ...
   - Email: joshua@joshuacasey.net
   - Matrix: @JoshuaACasey:matrix.org
-  - Mastodon: [@JoshuaACasey:qoto.org](https://qoto.org/@JoshuaACasey)
 
 I have mostly moved to [Gitlab](https://gitlab.com/JoshuaACasey) because [they are supporting the decentralized web](https://gitlab.com/groups/gitlab-org/-/epics/11247)
   
