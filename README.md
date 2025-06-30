@@ -16,9 +16,6 @@
   - Email: github@dftba.xyz
   - Matrix: @JoshuaACasey:matrix.org
 
-I have mostly moved to [Gitlab](https://gitlab.com/JoshuaACasey) because [they are supporting the decentralized web](https://gitlab.com/groups/gitlab-org/-/epics/11247)
-  
-
 <!---
 JoshuaACasey/JoshuaACasey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
