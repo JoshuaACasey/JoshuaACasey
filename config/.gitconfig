@@ -1,0 +1,14 @@
+[user]
+	email = joshua@joshuacasey.net
+	name = Joshua Casey
+	signingkey = 4EB5E2218E417AA1
+[commit]
+	gpgsign = true
+[alias]
+	co = checkout
+	br = branch
+	st = status
+	unstage = reset HEAD --
+	last = log -l HEAD
+[color]
+	ui = true
