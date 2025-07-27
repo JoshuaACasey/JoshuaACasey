@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @JoshuaACasey
+  I'm a Digital Rights Activist and video game streamer
 - 👀 I’m interested in ...
   - Activism
+    - Anti-Censorship 
     - Privacy
     - Human Rights
       - Free Speech
@@ -13,7 +15,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-  - Email: github@dftba.xyz
+  - Bluesky: https://bsky.app/profile/joshuacasey.net
+  - Discord: JoshuaACasey
   - Matrix: @JoshuaACasey:matrix.org
 
 <!---
