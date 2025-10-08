@@ -17,7 +17,7 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 ### Operating System
 
 <a href="https://www.youtube.com/@JoshuaCasey" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-windows-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-windows-dark.svg" /> <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-windows.svg" width="32" height="32" /> </picture> </a>
-<a href="https://cachyos.org" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cachyos-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cachyos-light.svg" /> <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cachyos.svg" width="32" height="32" /> </picture> </a>
+<a href="https://cachyos.org" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cachyos-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cachyos-dark.svg" /> <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cachyos.svg" width="32" height="32" /> </picture> </a>
 
 ### GitHub Stats
 
