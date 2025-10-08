@@ -1,44 +1,41 @@
-<p align="center"><img src="https://raw.githubusercontent.com/ChrisTitusTech/ChrisTitusTech/main/ctt-600px-github.png" /></p>
 
-<a href="https://www.twitch.tv/christitustech" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/christitustech?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
+<a href="https://www.twitch.tv/JoshuaACasey" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/christitustech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/christitustech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ctitus" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://christitus.com/rss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/christitustech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@christitustech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@christitustech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/christitustech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/JoshuaACasey" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://pixelfed.social/@JoshuaCasey" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/JoshuaACasey" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://joshuacasey.net/posts/index.xml" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /> </picture> </a> <a href="https://bsky.app/profile/JoshuaACasey" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@JoshuaCasey" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/JoshuaACasey" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
 
 ### GitHub Stats
 
-<p align="left"><img src="https://raw.githubusercontent.com/ChrisTitusTech/ChrisTitusTech/main/github-metrics.svg" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/JoshuaACasey/ChrisTitusTech/main/github-metrics.svg" /></p>
 
 ### 👷 Check out what I'm currently working on
 
-- [ChrisTitusTech/dwm-titus-docs](https://github.com/ChrisTitusTech/dwm-titus-docs) - Documentation Website for DWM-Titus
-- [ChrisTitusTech/website](https://github.com/ChrisTitusTech/website) - My HUGO Website that I use for Videos, Blogs, and Redirects
-- [ChrisTitusTech/bypassnro](https://github.com/ChrisTitusTech/bypassnro) - Fixing Microsoft&#39;s removal of BypassNRO
-- [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus) - My DWM configuration with everything pre-patched
+- [JoshuaACasey/playground.dftba.xyz](https://github.com/JoshuaACasey/playground.dftba.xyz) - Playground for playing around with ai web development
+- [JoshuaACasey/joshuacasey.net_comments](https://github.com/JoshuaACasey/joshuacasey.net_comments) - 
+- [JoshuaACasey/JoshuaACasey-OLD](https://github.com/JoshuaACasey/JoshuaACasey-OLD) - Config files for my GitHub profile.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 ### 🌱 My latest projects
 
-- [ChrisTitusTech/bypassnro](https://github.com/ChrisTitusTech/bypassnro) - Fixing Microsoft&#39;s removal of BypassNRO
-- [ChrisTitusTech/obsidian](https://github.com/ChrisTitusTech/obsidian) - 
-- [ChrisTitusTech/dwm-titus-docs](https://github.com/ChrisTitusTech/dwm-titus-docs) - Documentation Website for DWM-Titus
-- [ChrisTitusTech/fallout76-configs](https://github.com/ChrisTitusTech/fallout76-configs) - Fallout 76 custom ini and mod list auto installer
-- [ChrisTitusTech/vkbasalt-conf](https://github.com/ChrisTitusTech/vkbasalt-conf) - 
+- [JoshuaACasey/playground.dftba.xyz](https://github.com/JoshuaACasey/playground.dftba.xyz) - Playground for playing around with ai web development
+- [JoshuaACasey/joshuacasey.net_comments](https://github.com/JoshuaACasey/joshuacasey.net_comments) - 
+- [JoshuaACasey/JoshuaACasey-OLD](https://github.com/JoshuaACasey/JoshuaACasey-OLD) - Config files for my GitHub profile.
 ### 🔨 My recent Pull Requests
 
-- [MultiMonitor-TagsperMonitor](https://github.com/ChrisTitusTech/dwm-titus/pull/72) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
-- [Install Windows Update Blocker](https://github.com/ChrisTitusTech/winutil/pull/3577) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-- [Dwmh tag enhancement](https://github.com/ChrisTitusTech/dwm-titus/pull/71) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
-- [Update README.md](https://github.com/ChrisTitusTech/linutil/pull/1106) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
-- [Update README.md](https://github.com/ChrisTitusTech/linutil/pull/1105) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
+- [add docker compose support &#43; .env &#43; run-skeeter.sh for system crontab](https://github.com/Gorcenski/skeeter-deleter/pull/12) on [Gorcenski/skeeter-deleter](https://github.com/Gorcenski/skeeter-deleter)
+- [Update applications.json](https://github.com/ChrisTitusTech/winutil/pull/3405) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
+- [Add more cleaning power to docker-clean](https://github.com/ChrisTitusTech/mybash/pull/106) on [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash)
+- [Added more social sites](https://github.com/khusika/FeelIt/pull/131) on [khusika/FeelIt](https://github.com/khusika/FeelIt)
+- [Update applications.json - Add apps from Proton](https://github.com/ChrisTitusTech/winutil/pull/2315) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 ### ⭐ Recent Stars
 
-- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
-- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
-- [dshnkao/SpaceId](https://github.com/dshnkao/SpaceId) - macOS space indicator
-- [CodingWonders/MicroWin](https://github.com/CodingWonders/MicroWin) - This repository contains the source code for the MicroWin CANARY version. MicroWin CANARY allows us to work more quickly and efficiently on the next version of MicroWin that will be available on WinUtil (https://github.com/ChrisTitusTech/winutil).
-- [Meliketoaste/wodin](https://github.com/Meliketoaste/wodin) - tiny xlib window manager as of now.
+- [bluesky-social/goat](https://github.com/bluesky-social/goat) - Go AT protocol CLI tool
+- [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
+- [limbo666/DesktopFences](https://github.com/limbo666/DesktopFences) - An alternative to Stardock Fences. Open Source
+- [Twometer/NoFences](https://github.com/Twometer/NoFences) - 🚧 Open Source Stardock Fences alternative
+- [eddiewebb/hugo-resume](https://github.com/eddiewebb/hugo-resume) - A Hugo theme ported from startbootrap.com&#39;s resume template
 ### 📰 Recent Blog Posts
 
 - [Enable Vrr Xorg](https://christitus.com/enable-vrr-xorg/)
@@ -47,8 +44,10 @@ src="https://img.shields.io/twitch/status/christitustech?logo=twitchsx&style=for
 - [How Vulnerable Windows Users Are by Update](https://christitus.com/how-vulnerable-windows-users-are-by-update/)
 - [Patching Programs From Forks](https://christitus.com/patching-programs-from-forks/)
 ### 📫 How to reach me:
-  - Youtube   : <https://youtube.com/c/ChrisTitusTech>
-  - Twitch    : <https://twitch.tv/christitustech>
-  - Twitter   : <https://twitter.com/christitustech>
-  - Website   : <https://christitus.com>
-  - Web Store : <https://cttstore.com>
+  - Website   : <https://joshuacasey.net>
+  - Links     : <https://links.joshuacasey.net>
+  - Bluesky   : <https://bsky.app/profile/joshuacasey.net>
+  - Mastodon  : <https://social.dftba.xyz/@JoshuaACasey>
+  - Twitch    : <https://twitch.tv/JoshuaACasey>
+  - Youtube   : <https://www.youtube.com/c/joshuacasey>
+
