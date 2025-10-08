@@ -9,7 +9,8 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### GitHub Stats
 
-<p align="left"><img src="https://raw.githubusercontent.com/JoshuaACasey/ChrisTitusTech/main/github-metrics.svg" /></p>
+<p align="left"><img src="/github-metrics.svg" alt="Metrics"></p>
+
 
 ### 👷 Check out what I'm currently working on
 
@@ -24,11 +25,11 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 - [JoshuaACasey/JoshuaACasey-OLD](https://github.com/JoshuaACasey/JoshuaACasey-OLD) - Config files for my GitHub profile.
 ### 🔨 My recent Pull Requests
 
+- [Add Bluesky and Mastodon SVGs icons (Light and Dark)](https://github.com/danielcranney/profileme-dev/pull/200) on [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev)
 - [add docker compose support &#43; .env &#43; run-skeeter.sh for system crontab](https://github.com/Gorcenski/skeeter-deleter/pull/12) on [Gorcenski/skeeter-deleter](https://github.com/Gorcenski/skeeter-deleter)
 - [Update applications.json](https://github.com/ChrisTitusTech/winutil/pull/3405) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [Add more cleaning power to docker-clean](https://github.com/ChrisTitusTech/mybash/pull/106) on [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash)
 - [Added more social sites](https://github.com/khusika/FeelIt/pull/131) on [khusika/FeelIt](https://github.com/khusika/FeelIt)
-- [Update applications.json - Add apps from Proton](https://github.com/ChrisTitusTech/winutil/pull/2315) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 ### ⭐ Recent Stars
 
 - [bluesky-social/goat](https://github.com/bluesky-social/goat) - Go AT protocol CLI tool
@@ -38,11 +39,10 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 - [eddiewebb/hugo-resume](https://github.com/eddiewebb/hugo-resume) - A Hugo theme ported from startbootrap.com&#39;s resume template
 ### 📰 Recent Blog Posts
 
-- [Enable Vrr Xorg](https://christitus.com/enable-vrr-xorg/)
-- [Prioritize Ipv4 Over Ipv6 Linux](https://christitus.com/prioritize-ipv4-over-ipv6-linux/)
-- [Track Changes Word Author Macro](https://christitus.com/track-changes-word-author-macro/)
-- [How Vulnerable Windows Users Are by Update](https://christitus.com/how-vulnerable-windows-users-are-by-update/)
-- [Patching Programs From Forks](https://christitus.com/patching-programs-from-forks/)
+- [Censorship isn&#39;t the answer](https://joshuacasey.net/posts/2025/july/censorship-isnt-the-answer/)
+- [The April 8 2024 Total Solar Eclipse](https://joshuacasey.net/posts/2024/april/the-april-8-2024-total-solar-eclipse/)
+- [100 things I love or enjoy](https://joshuacasey.net/posts/2023/june/100-things-i-love-or-enjoy/)
+- [Things I can&#39;t live without](https://joshuacasey.net/posts/2022/june/things-i-cant-live-without/)
 ### 📫 How to reach me:
   - Website   : <https://joshuacasey.net>
   - Links     : <https://links.joshuacasey.net>
