@@ -28,7 +28,7 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 ### 📰 Recent Blog Posts
-{{ range rss "https://christitus.com/index.xml" 5 }}
+{{ range rss "https://joshuacasey.net/index.xml" 5 }}
 - [{{ .Title }}]({{ .URL }})
 {{- end }}
 ### 📫 How to reach me:
