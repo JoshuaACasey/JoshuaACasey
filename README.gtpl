@@ -10,26 +10,25 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 ### GitHub Stats
 
 <p align="left"><img src="/github-metrics.svg" alt="Metrics"></p>
-<!-- <p align="left"><img src="https://raw.githubusercontent.com/JoshuaACasey/ChrisTitusTech/main/github-metrics.svg" /></p> -->
 
 ### 👷 Check out what I'm currently working on
-{{ range recentContributions 5 }}
+{{ range recentContributions 3 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 ### 🌱 My latest projects
-{{ range recentRepos 5 }}
+{{ range recentRepos 3 }}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
 ### 🔨 My recent Pull Requests
-{{ range recentPullRequests 5 }}
+{{ range recentPullRequests 3 }}
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end }}
 ### ⭐ Recent Stars
-{{ range recentStars 5 }}
+{{ range recentStars 3 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 ### 📰 Recent Blog Posts
-{{ range rss "https://joshuacasey.net/posts/index.xml" 5 }}
+{{ range rss "https://joshuacasey.net/posts/index.xml" 3 }}
 - [{{ .Title }}]({{ .URL }})
 {{- end }}
 ### 📫 How to reach me:
