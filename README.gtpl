@@ -9,7 +9,8 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### GitHub Stats
 
-<p align="left"><img src="https://raw.githubusercontent.com/JoshuaACasey/ChrisTitusTech/main/github-metrics.svg" /></p>
+<p align="left"><img src="/github-metrics.svg" alt="Metrics"></p>
+<!-- <p align="left"><img src="https://raw.githubusercontent.com/JoshuaACasey/ChrisTitusTech/main/github-metrics.svg" /></p> -->
 
 ### 👷 Check out what I'm currently working on
 {{ range recentContributions 5 }}
