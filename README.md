@@ -11,38 +11,30 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 <p align="left"><img src="/github-metrics.svg" alt="Metrics"></p>
 
-
 ### 👷 Check out what I'm currently working on
 
 - [JoshuaACasey/playground.dftba.xyz](https://github.com/JoshuaACasey/playground.dftba.xyz) - Playground for playing around with ai web development
 - [JoshuaACasey/joshuacasey.net_comments](https://github.com/JoshuaACasey/joshuacasey.net_comments) - 
-- [JoshuaACasey/JoshuaACasey-OLD](https://github.com/JoshuaACasey/JoshuaACasey-OLD) - Config files for my GitHub profile.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 ### 🌱 My latest projects
 
 - [JoshuaACasey/playground.dftba.xyz](https://github.com/JoshuaACasey/playground.dftba.xyz) - Playground for playing around with ai web development
 - [JoshuaACasey/joshuacasey.net_comments](https://github.com/JoshuaACasey/joshuacasey.net_comments) - 
-- [JoshuaACasey/JoshuaACasey-OLD](https://github.com/JoshuaACasey/JoshuaACasey-OLD) - Config files for my GitHub profile.
 ### 🔨 My recent Pull Requests
 
 - [Add Bluesky and Mastodon SVGs icons (Light and Dark)](https://github.com/danielcranney/profileme-dev/pull/200) on [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev)
 - [add docker compose support &#43; .env &#43; run-skeeter.sh for system crontab](https://github.com/Gorcenski/skeeter-deleter/pull/12) on [Gorcenski/skeeter-deleter](https://github.com/Gorcenski/skeeter-deleter)
 - [Update applications.json](https://github.com/ChrisTitusTech/winutil/pull/3405) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-- [Add more cleaning power to docker-clean](https://github.com/ChrisTitusTech/mybash/pull/106) on [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash)
-- [Added more social sites](https://github.com/khusika/FeelIt/pull/131) on [khusika/FeelIt](https://github.com/khusika/FeelIt)
 ### ⭐ Recent Stars
 
 - [bluesky-social/goat](https://github.com/bluesky-social/goat) - Go AT protocol CLI tool
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [limbo666/DesktopFences](https://github.com/limbo666/DesktopFences) - An alternative to Stardock Fences. Open Source
-- [Twometer/NoFences](https://github.com/Twometer/NoFences) - 🚧 Open Source Stardock Fences alternative
-- [eddiewebb/hugo-resume](https://github.com/eddiewebb/hugo-resume) - A Hugo theme ported from startbootrap.com&#39;s resume template
 ### 📰 Recent Blog Posts
 
 - [Censorship isn&#39;t the answer](https://joshuacasey.net/posts/2025/july/censorship-isnt-the-answer/)
 - [The April 8 2024 Total Solar Eclipse](https://joshuacasey.net/posts/2024/april/the-april-8-2024-total-solar-eclipse/)
 - [100 things I love or enjoy](https://joshuacasey.net/posts/2023/june/100-things-i-love-or-enjoy/)
-- [Things I can&#39;t live without](https://joshuacasey.net/posts/2022/june/things-i-cant-live-without/)
 ### 📫 How to reach me:
   - Website   : <https://joshuacasey.net>
   - Links     : <https://links.joshuacasey.net>
