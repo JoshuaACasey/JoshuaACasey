@@ -18,6 +18,7 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 <a href="https://winutil.christitus.com/userguide/microwin/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-windows-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-windows-dark.svg" /> <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-windows.svg" width="32" height="32" /> </picture> </a>
 <a href="https://cachyos.org" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cachyos-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cachyos-dark.svg" /> <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cachyos.svg" width="32" height="32" /> </picture> </a>
+<a href="https://www.debian.org/distrib/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/debian-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/debian-dark.svg" /> <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/debian.svg" width="32" height="32" /> </picture> </a>
 
 ### GitHub Stats
 
