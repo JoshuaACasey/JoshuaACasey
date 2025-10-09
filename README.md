@@ -26,17 +26,17 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### 👷 Check out what I'm currently working on
 
-- [JoshuaACasey/joshuacasey.net](https://github.com/JoshuaACasey/joshuacasey.net) - 
-- [JoshuaACasey/bunnyislewd.com](https://github.com/JoshuaACasey/bunnyislewd.com) - 
-- [JoshuaACasey/joshuacasey.net_comments](https://github.com/JoshuaACasey/joshuacasey.net_comments) - 
-- [JoshuaACasey/links.joshuacasey.net](https://github.com/JoshuaACasey/links.joshuacasey.net) - 
+- [JoshuaACasey/joshuacasey.net](https://github.com/JoshuaACasey/joshuacasey.net) - Git repository behind joshuacasey.net
+- [JoshuaACasey/bunnyislewd.com](https://github.com/JoshuaACasey/bunnyislewd.com) - Git repository behind bunnyislewd.com
+- [JoshuaACasey/joshuacasey.net_comments](https://github.com/JoshuaACasey/joshuacasey.net_comments) - repository for utterances comments on joshuacasey.net
+- [JoshuaACasey/links.joshuacasey.net](https://github.com/JoshuaACasey/links.joshuacasey.net) - Git repository behind links.joshuacasey.net
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 ### 🌱 My latest projects
 
-- [JoshuaACasey/joshuacasey.net](https://github.com/JoshuaACasey/joshuacasey.net) - 
-- [JoshuaACasey/bunnyislewd.com](https://github.com/JoshuaACasey/bunnyislewd.com) - 
-- [JoshuaACasey/links.joshuacasey.net](https://github.com/JoshuaACasey/links.joshuacasey.net) - 
-- [JoshuaACasey/joshuacasey.net_comments](https://github.com/JoshuaACasey/joshuacasey.net_comments) - 
+- [JoshuaACasey/joshuacasey.net](https://github.com/JoshuaACasey/joshuacasey.net) - Git repository behind joshuacasey.net
+- [JoshuaACasey/bunnyislewd.com](https://github.com/JoshuaACasey/bunnyislewd.com) - Git repository behind bunnyislewd.com
+- [JoshuaACasey/links.joshuacasey.net](https://github.com/JoshuaACasey/links.joshuacasey.net) - Git repository behind links.joshuacasey.net
+- [JoshuaACasey/joshuacasey.net_comments](https://github.com/JoshuaACasey/joshuacasey.net_comments) - repository for utterances comments on joshuacasey.net
 ### 🔨 My recent Pull Requests
 
 - [Add Bluesky and Mastodon SVGs icons (Light and Dark)](https://github.com/danielcranney/profileme-dev/pull/200) on [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev)
