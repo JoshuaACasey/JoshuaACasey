@@ -25,12 +25,10 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### 👷 Check out what I'm currently working on
 
-- [JoshuaACasey/playground.dftba.xyz](https://github.com/JoshuaACasey/playground.dftba.xyz) - Playground for playing around with ai web development
 - [JoshuaACasey/joshuacasey.net_comments](https://github.com/JoshuaACasey/joshuacasey.net_comments) - 
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 ### 🌱 My latest projects
 
-- [JoshuaACasey/playground.dftba.xyz](https://github.com/JoshuaACasey/playground.dftba.xyz) - Playground for playing around with ai web development
 - [JoshuaACasey/joshuacasey.net_comments](https://github.com/JoshuaACasey/joshuacasey.net_comments) - 
 ### 🔨 My recent Pull Requests
 
