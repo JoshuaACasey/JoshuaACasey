@@ -44,11 +44,11 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 - [Update applications.json](https://github.com/ChrisTitusTech/winutil/pull/3405) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 ### ⭐ Recent Stars
 
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) - Create an awesome GitHub profile in minutes
 - [bluesky-social/goat](https://github.com/bluesky-social/goat) - Go AT protocol CLI tool
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [limbo666/DesktopFences](https://github.com/limbo666/DesktopFences) - An alternative to Stardock Fences. Open Source
-- [Twometer/NoFences](https://github.com/Twometer/NoFences) - 🚧 Open Source Stardock Fences alternative
 ### 📰 Recent Blog Posts
 
 - [Censorship isn&#39;t the answer](https://joshuacasey.net/posts/2025/july/censorship-isnt-the-answer/)
