@@ -33,9 +33,9 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 ### 👷 Check out what I'm currently working on
 
 - [JoshuaACasey/joshuacasey.net](https://github.com/JoshuaACasey/joshuacasey.net) - Git repository behind joshuacasey.net
+- [JoshuaACasey/links.joshuacasey.net](https://github.com/JoshuaACasey/links.joshuacasey.net) - Git repository behind links.joshuacasey.net
 - [JoshuaACasey/bunnyislewd.com](https://github.com/JoshuaACasey/bunnyislewd.com) - Git repository behind bunnyislewd.com
 - [JoshuaACasey/joshuacasey.net_comments](https://github.com/JoshuaACasey/joshuacasey.net_comments) - repository for utterances comments on joshuacasey.net
-- [JoshuaACasey/links.joshuacasey.net](https://github.com/JoshuaACasey/links.joshuacasey.net) - Git repository behind links.joshuacasey.net
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 ### 🌱 My latest projects
 
@@ -57,9 +57,9 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 - [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) - Create an awesome GitHub profile in minutes
 ### 📰 Recent Blog Posts
 
+- [So you&#39;re living under fascism -- what do you do now?](https://joshuacasey.net/posts/2025/october/so-youre-living-under-fascism--what-do-you-do-now/)
 - [Censorship isn&#39;t the answer](https://joshuacasey.net/posts/2025/july/censorship-isnt-the-answer/)
 - [The April 8 2024 Total Solar Eclipse](https://joshuacasey.net/posts/2024/april/the-april-8-2024-total-solar-eclipse/)
-- [100 things I love or enjoy](https://joshuacasey.net/posts/2023/june/100-things-i-love-or-enjoy/)
 - [Things I can&#39;t live without](https://joshuacasey.net/posts/2022/june/things-i-cant-live-without/)
 ### 📫 How to reach me:
   - Website   : <https://joshuacasey.net>
