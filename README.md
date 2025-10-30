@@ -1,11 +1,11 @@
 ### Socials
 <div align="center">
-<a href="https://twitch.tv/JoshuaACasey"><img alt="Twitch" src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white&labelColor=9146FF&color=9146FF" /></a>
+
+<a href="https://www.twitch.tv/JoshuaACasey"><img
+src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=9146FF&label=TWITCH+STATUS" /></a>
 <a href="https://www.youtube.com/@JoshuaCasey"><img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000" /></a>
 <a href="https://bsky.app/profile/joshuacasey.net"><img src="https://img.shields.io/badge/Bluesky-0285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white" /></a>
 <a href="https://social.dftba.xyz/@JoshuaACasey"><img src="https://img.shields.io/badge/Mastodon-6364FF.svg?style=for-the-badge&logo=Mastodon&logoColor=white" /></a>
-<a href="https://www.twitch.tv/JoshuaACasey"><img
-src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 </div>
 
 ### Operating System
