@@ -47,7 +47,7 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 ### 📫 How to reach me:
 <div align="center">
   <a href="https://joshuacasey.net"><img alt="Website" src="https://img.shields.io/badge/website-FF4088.svg?style=for-the-badge&logoColor=white&labelColor=FF4088&color=FF4088" /></a>
-  <a href="https://links.joshuacasey.net><img alt="My Links" src="https://img.shields.io/badge/links-FF4088.svg?style=for-the-badge&logoColor=white&labelColor=FF4088&color=FF4088" /></a>
+  <a href="https://links.joshuacasey.net"><img alt="My Links" src="https://img.shields.io/badge/links-FF4088.svg?style=for-the-badge&logoColor=white&labelColor=FF4088&color=FF4088" /></a>
   <a href="https://discord.gg/38JUvfDpMt"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" /></a>
   <a href="https://matrix.to/#/@JoshuaCasey:matrix.org"><img alt="Matrix (Element)" src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000&color=000000" /></a>
   <a href="https://signal.me/#eu/pBm64iAenxD_oy1awnqwzFlJ_51Sc6eBzxabkrkur53LnpzjFbZLxp45YudATXT3"><img src="https://img.shields.io/badge/Signal-3B45FD.svg?style=for-the-badge&logo=Signal&logoColor=whit" /></a>
