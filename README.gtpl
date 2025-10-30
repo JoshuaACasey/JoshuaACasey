@@ -10,7 +10,7 @@
 <a href="https://social.dftba.xyz/@JoshuaACasey"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/mastodon-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/mastodon-dark.svg" /> <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/mastodon.svg" width="32" height="32" /> </picture> </a>
 -->
 <a href="https://joshuacasey.net"><img alt="Website" src="https://img.shields.io/badge/website-FF4088.svg?style=for-the-badge&logoColor=white&labelColor=FF4088&color=FF4088"></a>
-<a href="https://links.joshuacasey.net><img alt="My Links" src="https://img.shields.io/badge/links-FF4088.svg?style=for-the-badge&logoColor=white&labelColor=FF4088&color=FF4088"></a>
+<a href="https://links.joshuacasey.net"><img alt="My Links" src="https://img.shields.io/badge/links-FF4088.svg?style=for-the-badge&logoColor=white&labelColor=FF4088&color=FF4088"></a>
 <a href="https://twitch.tv/JoshuaACasey"><img alt="Twitch" src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white&labelColor=9146FF&color=9146FF"></a>
 <a href="https://www.youtube.com/@JoshuaCasey"><img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000"></a>
 <a href="https://bsky.app/profile/joshuacasey.net"><img src="https://img.shields.io/badge/Bluesky-0285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white" /></a>
