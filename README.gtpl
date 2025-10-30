@@ -1,3 +1,6 @@
+### Bio
+Joshua is an autistic nerd, video game streamer and digital rights activist that is passionate about human rights, free speech, anti-censorship, privacy, autistic people’s rights, sex worker’s rights, criminal punishment system reform, prevention of sexual abuse, and climate change and generally just making the world a better place for those of us that aren't billionaires 😆
+
 ### Socials
 <div align="center">
 <!-- <a href="https://twitch.tv/JoshuaACasey"><img alt="Twitch" src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white&labelColor=9146FF&color=9146FF" /></a> -->
