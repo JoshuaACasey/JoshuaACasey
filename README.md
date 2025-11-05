@@ -42,11 +42,11 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### ⭐ Recent Stars
 
+- [atblueprints/awesome-atproto](https://github.com/atblueprints/awesome-atproto) - A curated list of awesome AT Protocol resources
 - [lukeacl/atproto-did-web](https://github.com/lukeacl/atproto-did-web) - setup a did:web for use on ATProto
 - [lukeacl/bsky-pds](https://github.com/lukeacl/bsky-pds) - Bluesky PDS running in Docker externally accessed by a Cloudflare tunnel
 - [blebbit/testnet](https://github.com/blebbit/testnet) - Run independent ATProtocol networks
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-- [jacklul/pihole-updatelists](https://github.com/jacklul/pihole-updatelists) - Update Pi-hole&#39;s lists from remote sources easily
 
 ### 📰 Recent Blog Posts <a href="https://joshuacasey.net/posts/index.xml"><img alt="Static Badge" src="https://img.shields.io/badge/rss-FFA500.svg?style=for-the-badge&logo=rss&logoColor=white&labelColor=FFA500&color=FFA500" /></a>
 
