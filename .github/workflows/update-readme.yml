@@ -41,7 +41,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Chicago
           plugin_gists: yes
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
           plugin_habits_facts: yes
@@ -49,8 +49,20 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_traffic: yes
-          plugin_wakatime: yes
+          plugin_wakatime: no
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors-graphs, os-graphs
           #plugin_wakatime_languages_ignored: 
           plugin_wakatime_days: 365
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_token: "${{ secrets.SPOTIFY_CLIENTID }}, ${{ secrets.SPOTIFY_CLIENTSECRET }}, ${{ secrets.SPOTIFY_REFRESHTOKEN }}"
+          plugin_music_mode: top
+          plugin_music_limit: 5
+          plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin:steam_user: "76561198041021483"
+          #plugin_steam_games_ignored: 
+          plugin_steam_games_limit: 3
+          plugin_steam_recent_games_limit: 3
+          plugin_steam_achievements_limit: 5
