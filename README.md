@@ -42,11 +42,11 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### ⭐ Recent Stars
 
+- [meeb/tubesync](https://github.com/meeb/tubesync) - Syncs YouTube channels and playlists to a locally hosted media server
 - [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.
 - [atblueprints/awesome-atproto](https://github.com/atblueprints/awesome-atproto) - A curated list of awesome AT Protocol resources
 - [lukeacl/atproto-did-web](https://github.com/lukeacl/atproto-did-web) - setup a did:web for use on ATProto
 - [lukeacl/bsky-pds](https://github.com/lukeacl/bsky-pds) - Bluesky PDS running in Docker externally accessed by a Cloudflare tunnel
-- [blebbit/testnet](https://github.com/blebbit/testnet) - Run independent ATProtocol networks
 
 ### 📰 Recent Blog Posts <a href="https://joshuacasey.net/posts/index.xml"><img alt="Static Badge" src="https://img.shields.io/badge/rss-FFA500.svg?style=for-the-badge&logo=rss&logoColor=white&labelColor=FFA500&color=FFA500" /></a>
 
