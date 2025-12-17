@@ -22,25 +22,14 @@
 - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling-onlydomains.txt
 - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling.txt
 
-# Malware
+## Malware
 - https://urlhaus.abuse.ch/downloads/hostfile
 - https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/tif.mini.txt
 
-
-
-
-
 # Misc
 - https://big.oisd.nl
+- https://firebog.net/
+- https://github.com/anudeepND/blacklist/
 
-
-
-
-
-
-
-
-# Adult
+## Adult
 - https://nsfw.oisd.nl/rpz
--
--
