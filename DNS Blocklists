@@ -27,9 +27,10 @@
 - https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/tif.mini.txt
 
 # Misc
-- https://big.oisd.nl
+- https://oisd.nl/setup/adguardhome
 - https://firebog.net/
 - https://github.com/anudeepND/blacklist/
+- https://github.com/mullvad/dns-blocklists?tab=readme-ov-file
 
 ## Adult
 - https://nsfw.oisd.nl/rpz
