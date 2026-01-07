@@ -42,11 +42,11 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### ⭐ Recent Stars
 
+- [Aitum/obs-aitum-multistream](https://github.com/Aitum/obs-aitum-multistream) - 
 - [ascorbic/cirrus](https://github.com/ascorbic/cirrus) - A single-user ATProto PDS that runs on a Cloudflare Worker
 - [nozwock/packet](https://github.com/nozwock/packet) - Quick Share client for Linux
 - [TaterTotterson/Tater](https://github.com/TaterTotterson/Tater) - Tater is an AI assistant that connects to any OpenAI API–compatible LLM, giving you a powerful set of AI-driven tools. It includes a WebUI for setup and private chats, and works across Discord, IRC, Matrix, Home Assistant, HomeKit, and even the original Xbox (XBMC4Xbox).
 - [TaterTotterson/tater_automations](https://github.com/TaterTotterson/tater_automations) - tater_automations
-- [coredevices/PebbleOS](https://github.com/coredevices/PebbleOS) - 
 
 ### 📰 Recent Blog Posts <a href="https://joshuacasey.net/posts/index.xml"><img alt="Static Badge" src="https://img.shields.io/badge/rss-FFA500.svg?style=for-the-badge&logo=rss&logoColor=white&labelColor=FFA500&color=FFA500" /></a>
 
