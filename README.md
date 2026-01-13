@@ -21,6 +21,7 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### 👷 Check out what I'm currently working on
 
+- [ascorbic/cirrus](https://github.com/ascorbic/cirrus) - A single-user ATProto PDS that runs on a Cloudflare Worker
 - [JoshuaACasey/bunnyislewd.com](https://github.com/JoshuaACasey/bunnyislewd.com) - Git repository behind bunnyislewd.com
 - [JoshuaACasey/joshuacasey.net](https://github.com/JoshuaACasey/joshuacasey.net) - Git repository behind joshuacasey.net
 - [JoshuaACasey/joshuacasey.net_comments](https://github.com/JoshuaACasey/joshuacasey.net_comments) - repository for utterances comments on joshuacasey.net
@@ -36,9 +37,9 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### 🔨 My recent Pull Requests
 
+- [fix: JSON structure in wrangler.jsonc](https://github.com/ascorbic/cirrus/pull/97) on [ascorbic/cirrus](https://github.com/ascorbic/cirrus)
 - [Add Bluesky and Mastodon SVGs icons (Light and Dark)](https://github.com/danielcranney/profileme-dev/pull/200) on [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev)
 - [add docker compose support &#43; .env &#43; run-skeeter.sh for system crontab](https://github.com/Gorcenski/skeeter-deleter/pull/12) on [Gorcenski/skeeter-deleter](https://github.com/Gorcenski/skeeter-deleter)
-- [Update applications.json](https://github.com/ChrisTitusTech/winutil/pull/3405) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 
 ### ⭐ Recent Stars
 
