@@ -29,11 +29,11 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### 🌱 My latest projects
 
+- [JoshuaACasey/pds-dftba](https://github.com/JoshuaACasey/pds-dftba) - 
 - [JoshuaACasey/links.joshuacasey.net](https://github.com/JoshuaACasey/links.joshuacasey.net) - 
 - [JoshuaACasey/links.jelsamina.com](https://github.com/JoshuaACasey/links.jelsamina.com) - 
 - [JoshuaACasey/jelsamina.com](https://github.com/JoshuaACasey/jelsamina.com) - 
 - [JoshuaACasey/joshuacasey.net](https://github.com/JoshuaACasey/joshuacasey.net) - Git repository behind joshuacasey.net
-- [JoshuaACasey/bunnyislewd.com](https://github.com/JoshuaACasey/bunnyislewd.com) - Git repository behind bunnyislewd.com
 
 ### 🔨 My recent Pull Requests
 
