@@ -21,11 +21,11 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### 👷 Check out what I'm currently working on
 
+- [JoshuaACasey/joshuacasey.net](https://github.com/JoshuaACasey/joshuacasey.net) - Git repository behind joshuacasey.net
+- [JoshuaACasey/links.joshuacasey.net](https://github.com/JoshuaACasey/links.joshuacasey.net) - 
 - [ascorbic/cirrus](https://github.com/ascorbic/cirrus) - A single-user ATProto PDS that runs on a Cloudflare Worker
 - [JoshuaACasey/bunnyislewd.com](https://github.com/JoshuaACasey/bunnyislewd.com) - Git repository behind bunnyislewd.com
-- [JoshuaACasey/joshuacasey.net](https://github.com/JoshuaACasey/joshuacasey.net) - Git repository behind joshuacasey.net
 - [JoshuaACasey/joshuacasey.net_comments](https://github.com/JoshuaACasey/joshuacasey.net_comments) - repository for utterances comments on joshuacasey.net
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 
 ### 🌱 My latest projects
 
