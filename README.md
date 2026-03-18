@@ -43,11 +43,11 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### ⭐ Recent Stars
 
+- [mgcck/megavest](https://github.com/mgcck/megavest) - 
 - [AT0myks/reolink-fw-archive](https://github.com/AT0myks/reolink-fw-archive) - History of official firmwares for Reolink devices.
 - [streamplace/streamplace](https://github.com/streamplace/streamplace) - Live video for the AT Protocol. Solving video for everybody forever.
 - [Durss/Twitchat](https://github.com/Durss/Twitchat) - Full featured Twitch chat alternative to fill gaps from the official one.
 - [logicallysound/streamdeck-discord-message](https://github.com/logicallysound/streamdeck-discord-message) - A Stream Deck plugin that sends a message to a Discord channel.
-- [CodingWonders/MicroWin](https://github.com/CodingWonders/MicroWin) - The future home of MicroWin.
 
 ### 📰 Recent Blog Posts <a href="https://joshuacasey.net/posts/index.xml"><img alt="Static Badge" src="https://img.shields.io/badge/rss-FFA500.svg?style=for-the-badge&logo=rss&logoColor=white&labelColor=FFA500&color=FFA500" /></a>
 
