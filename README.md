@@ -43,11 +43,11 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### ⭐ Recent Stars
 
+- [heussd/fivefilters-full-text-rss-docker](https://github.com/heussd/fivefilters-full-text-rss-docker) - Retrieves the full-text of individual Web pages or entire RSS feeds - Unofficial Docker image for fivefilters&#39; Full-Text RSS service
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [StreamController/StreamController](https://github.com/StreamController/StreamController) - An elegant Linux app for the Elgato Stream Deck with support for plugins
 - [andyvorld/LGSTrayBattery](https://github.com/andyvorld/LGSTrayBattery) - A tray app used to track battery levels of wireless Logitech mouse.
 - [ChrisTitusTech/remote-streamerbot-chat](https://github.com/ChrisTitusTech/remote-streamerbot-chat) - Streamer Bot Remote Chat Interface
-- [gamesgamesgamesgamesgames/happyview](https://github.com/gamesgamesgamesgamesgames/happyview) - A lexicon-driven AppView for ATProto.
 
 ### 📰 Recent Blog Posts <a href="https://joshuacasey.net/posts/index.xml"><img alt="Static Badge" src="https://img.shields.io/badge/rss-FFA500.svg?style=for-the-badge&logo=rss&logoColor=white&labelColor=FFA500&color=FFA500" /></a>
 
