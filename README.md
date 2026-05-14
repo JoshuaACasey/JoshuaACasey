@@ -43,11 +43,11 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### ⭐ Recent Stars
 
+- [Bogay/tranquil-pds](https://github.com/Bogay/tranquil-pds) - 
 - [yusefnapora/pixelbook-linux](https://github.com/yusefnapora/pixelbook-linux) - 
 - [mateowoetam/tuxelbookgoscript](https://github.com/mateowoetam/tuxelbookgoscript) - This Shell script automates the setup process for audio configuration, keyboard layout, and firmware updates on the Google Pixelbook Go when running Linux.
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 - [nekename/OpenDeck](https://github.com/nekename/OpenDeck) - Linux software for the Stream Deck with support for original Elgato Stream Deck plugins
-- [ChrisTitusTech/resolve-linux](https://github.com/ChrisTitusTech/resolve-linux) - Tools for Resolve on Linux
 
 ### 📰 Recent Blog Posts <a href="https://joshuacasey.net/posts/index.xml"><img alt="Static Badge" src="https://img.shields.io/badge/rss-FFA500.svg?style=for-the-badge&logo=rss&logoColor=white&labelColor=FFA500&color=FFA500" /></a>
 
