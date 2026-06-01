@@ -43,11 +43,11 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### ⭐ Recent Stars
 
+- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace. 
+- [koalabuttz/standard-reader](https://github.com/koalabuttz/standard-reader) - A TUI reader for standard.site (long-form on the AT Protocol).
 - [EIrno/Cracked-Oura](https://github.com/EIrno/Cracked-Oura) - 
 - [LX-Files/obs-studio-portable](https://github.com/LX-Files/obs-studio-portable) - OCI container image of OBS Studio that bundles a curated collection of 3rd party plugins
 - [Bogay/tranquil-pds](https://github.com/Bogay/tranquil-pds) - 
-- [yusefnapora/pixelbook-linux](https://github.com/yusefnapora/pixelbook-linux) - 
-- [mateowoetam/tuxelbookgoscript](https://github.com/mateowoetam/tuxelbookgoscript) - This Shell script automates the setup process for audio configuration, keyboard layout, and firmware updates on the Google Pixelbook Go when running Linux.
 
 ### 📰 Recent Blog Posts <a href="https://joshuacasey.net/posts/index.xml"><img alt="Static Badge" src="https://img.shields.io/badge/rss-FFA500.svg?style=for-the-badge&logo=rss&logoColor=white&labelColor=FFA500&color=FFA500" /></a>
 
