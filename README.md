@@ -43,11 +43,11 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### ⭐ Recent Stars
 
+- [FruityWelsh/ProtonDB-to-Steam-Library](https://github.com/FruityWelsh/ProtonDB-to-Steam-Library) - Pull ratings from ProtonDB and import them into your Steam library as tags.
+- [snekxs/openmouse](https://github.com/snekxs/openmouse) - 
 - [Fingel/cosmic-themes-org-py](https://github.com/Fingel/cosmic-themes-org-py) - Website for https://cosmic-themes.org
 - [grouzen/framework-tool-tui](https://github.com/grouzen/framework-tool-tui) - A TUI for controlling and monitoring Framework Computers hardware built in Rust
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
-- [ThatGamerBlue/subauth](https://github.com/ThatGamerBlue/subauth) - SubAuth root repository, only contains links to the other repositories.
-- [twentyhq/favicon](https://github.com/twentyhq/favicon) - 100% free and open-source favicon provider
 
 ### 📰 Recent Blog Posts <a href="https://joshuacasey.net/posts/index.xml"><img alt="Static Badge" src="https://img.shields.io/badge/rss-FFA500.svg?style=for-the-badge&logo=rss&logoColor=white&labelColor=FFA500&color=FFA500" /></a>
 
