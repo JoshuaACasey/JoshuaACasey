@@ -22,18 +22,13 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 ### 👷 Check out what I'm currently working on
 
 - [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash) - My Bash profile - Highly customized Starship Theme - Just imagine Powerlevel10k and Nord Theme had a baby.
-- [JoshuaACasey/joshuacasey.net](https://github.com/JoshuaACasey/joshuacasey.net) - Git repository behind joshuacasey.net
-- [JoshuaACasey/links.joshuacasey.net](https://github.com/JoshuaACasey/links.joshuacasey.net) - 
 - [ascorbic/cirrus](https://github.com/ascorbic/cirrus) - A single-user ATProto PDS that runs on a Cloudflare Worker
-- [JoshuaACasey/bunnyislewd.com](https://github.com/JoshuaACasey/bunnyislewd.com) - Git repository behind bunnyislewd.com
+- [JoshuaACasey/joshuacasey.net_comments](https://github.com/JoshuaACasey/joshuacasey.net_comments) - repository for utterances comments on joshuacasey.net
 
 ### 🌱 My latest projects
 
-- [JoshuaACasey/pds-dftba](https://github.com/JoshuaACasey/pds-dftba) - 
-- [JoshuaACasey/links.joshuacasey.net](https://github.com/JoshuaACasey/links.joshuacasey.net) - 
-- [JoshuaACasey/links.jelsamina.com](https://github.com/JoshuaACasey/links.jelsamina.com) - 
-- [JoshuaACasey/jelsamina.com](https://github.com/JoshuaACasey/jelsamina.com) - 
-- [JoshuaACasey/joshuacasey.net](https://github.com/JoshuaACasey/joshuacasey.net) - Git repository behind joshuacasey.net
+- [JoshuaACasey/test](https://github.com/JoshuaACasey/test) - 
+- [JoshuaACasey/joshuacasey.net_comments](https://github.com/JoshuaACasey/joshuacasey.net_comments) - repository for utterances comments on joshuacasey.net
 
 ### 🔨 My recent Pull Requests
 
