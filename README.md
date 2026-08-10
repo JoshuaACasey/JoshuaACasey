@@ -39,7 +39,7 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 ### ⭐ Recent Stars
 
 - [FruityWelsh/ProtonDB-to-Steam-Library](https://github.com/FruityWelsh/ProtonDB-to-Steam-Library) - Pull ratings from ProtonDB and import them into your Steam library as tags.
-- [snekxs/openmouse](https://github.com/snekxs/openmouse) - 
+- [OpenMouse-Project/openmouse](https://github.com/OpenMouse-Project/openmouse) - 
 - [Fingel/cosmic-themes-org-py](https://github.com/Fingel/cosmic-themes-org-py) - Website for https://cosmic-themes.org
 - [grouzen/framework-tool-tui](https://github.com/grouzen/framework-tool-tui) - A TUI for controlling and monitoring Framework Computers hardware built in Rust
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
