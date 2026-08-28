@@ -38,18 +38,17 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### ⭐ Recent Stars
 
+- [FlavioAdamo/openfit](https://github.com/FlavioAdamo/openfit) - Desktop dashboard and Codex-powered assistant for Fitbit data
+- [javier-ganmw/fitpulse](https://github.com/javier-ganmw/fitpulse) - Fitbit Air Tracker
 - [FruityWelsh/ProtonDB-to-Steam-Library](https://github.com/FruityWelsh/ProtonDB-to-Steam-Library) - Pull ratings from ProtonDB and import them into your Steam library as tags.
 - [OpenMouse-Project/openmouse](https://github.com/OpenMouse-Project/openmouse) - 
 - [Fingel/cosmic-themes-org-py](https://github.com/Fingel/cosmic-themes-org-py) - Website for https://cosmic-themes.org
-- [grouzen/framework-tool-tui](https://github.com/grouzen/framework-tool-tui) - A TUI for controlling and monitoring Framework Computers hardware built in Rust
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 
 ### 📰 Recent Blog Posts <a href="https://joshuacasey.net/posts/index.xml"><img alt="Static Badge" src="https://img.shields.io/badge/rss-FFA500.svg?style=for-the-badge&logo=rss&logoColor=white&labelColor=FFA500&color=FFA500" /></a>
 
 - [So you&#39;re living under fascism -- what do you do now?](https://joshuacasey.net/posts/2025/october/so-youre-living-under-fascism--what-do-you-do-now/)
 - [Censorship isn&#39;t the answer](https://joshuacasey.net/posts/2025/july/censorship-isnt-the-answer/)
 - [The April 8 2024 Total Solar Eclipse](https://joshuacasey.net/posts/2024/april/the-april-8-2024-total-solar-eclipse/)
-- [Things I can&#39;t live without](https://joshuacasey.net/posts/2022/june/things-i-cant-live-without/)
 
 ### 📫 How to reach me:
 <div align="center">
