@@ -38,11 +38,11 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### ⭐ Recent Stars
 
+- [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog.
 - [FlavioAdamo/openfit](https://github.com/FlavioAdamo/openfit) - Desktop dashboard and Codex-powered assistant for Fitbit data
 - [javier-ganmw/fitpulse](https://github.com/javier-ganmw/fitpulse) - Fitbit Air Tracker
 - [FruityWelsh/ProtonDB-to-Steam-Library](https://github.com/FruityWelsh/ProtonDB-to-Steam-Library) - Pull ratings from ProtonDB and import them into your Steam library as tags.
 - [OpenMouse-Project/openmouse](https://github.com/OpenMouse-Project/openmouse) - 
-- [Fingel/cosmic-themes-org-py](https://github.com/Fingel/cosmic-themes-org-py) - Website for https://cosmic-themes.org
 
 ### 📰 Recent Blog Posts <a href="https://joshuacasey.net/posts/index.xml"><img alt="Static Badge" src="https://img.shields.io/badge/rss-FFA500.svg?style=for-the-badge&logo=rss&logoColor=white&labelColor=FFA500&color=FFA500" /></a>
 
