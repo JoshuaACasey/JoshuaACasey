@@ -27,7 +27,8 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### 🌱 My latest projects
 
-- [JoshuaACasey/website](https://github.com/JoshuaACasey/website) - git repository for joshuacasey.net
+- [JoshuaACasey/website](https://github.com/JoshuaACasey/website) - 
+- [JoshuaACasey/temp-website](https://github.com/JoshuaACasey/temp-website) - git repository for joshuacasey.net
 - [JoshuaACasey/test](https://github.com/JoshuaACasey/test) - 
 - [JoshuaACasey/joshuacasey.net_comments](https://github.com/JoshuaACasey/joshuacasey.net_comments) - repository for utterances comments on joshuacasey.net
 
@@ -47,9 +48,9 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### 📰 Recent Blog Posts <a href="https://joshuacasey.net/posts/index.xml"><img alt="Static Badge" src="https://img.shields.io/badge/rss-FFA500.svg?style=for-the-badge&logo=rss&logoColor=white&labelColor=FFA500&color=FFA500" /></a>
 
-- [So you&#39;re living under fascism -- what do you do now?](https://joshuacasey.net/posts/2025-10-24_so-youre-living-under-fascism/)
-- [Censorship isn&#39;t the answer](https://joshuacasey.net/posts/2025-07-25_censorship-is-not-the-answer/)
-- [The April 8 2024 Total Solar Eclipse](https://joshuacasey.net/posts/2024-04-12_the-april-8-2024-total-solar-eclipse/)
+- [So you&#39;re living under fascism -- what do you do now?](https://joshuacasey.net/posts/2025/october/so-youre-living-under-fascism--what-do-you-do-now/)
+- [Censorship isn&#39;t the answer](https://joshuacasey.net/posts/2025/july/censorship-isnt-the-answer/)
+- [The April 8 2024 Total Solar Eclipse](https://joshuacasey.net/posts/2024/april/the-april-8-2024-total-solar-eclipse/)
 
 ### 📫 How to reach me:
 <div align="center">
