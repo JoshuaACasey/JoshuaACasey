@@ -34,9 +34,9 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### 🔨 My recent Pull Requests
 
+- [Add alias to delete Zone.Identifier files in WSL](https://github.com/ChrisTitusTech/mybash/pull/139) on [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash)
 - [Add alias to fix SSH permissions](https://github.com/ChrisTitusTech/mybash/pull/128) on [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash)
 - [fix: JSON structure in wrangler.jsonc](https://github.com/ascorbic/cirrus/pull/97) on [ascorbic/cirrus](https://github.com/ascorbic/cirrus)
-- [Add Bluesky and Mastodon SVGs icons (Light and Dark)](https://github.com/danielcranney/profileme-dev/pull/200) on [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev)
 
 ### ⭐ Recent Stars
 
