@@ -28,7 +28,6 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 ### 🌱 My latest projects
 
 - [JoshuaACasey/website](https://github.com/JoshuaACasey/website) - 
-- [JoshuaACasey/temp-website](https://github.com/JoshuaACasey/temp-website) - git repository for joshuacasey.net
 - [JoshuaACasey/test](https://github.com/JoshuaACasey/test) - 
 - [JoshuaACasey/joshuacasey.net_comments](https://github.com/JoshuaACasey/joshuacasey.net_comments) - repository for utterances comments on joshuacasey.net
 
