@@ -27,13 +27,10 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 - [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash) - My Bash profile - Highly customized Starship Theme - Just imagine Powerlevel10k and Nord Theme had a baby.
 - [ascorbic/cirrus](https://github.com/ascorbic/cirrus) - A single-user ATProto PDS that runs on a Cloudflare Worker
-- [JoshuaACasey/joshuacasey.net_comments](https://github.com/JoshuaACasey/joshuacasey.net_comments) - repository for utterances comments on joshuacasey.net
 
 ### 🌱 My latest projects
 
-- [JoshuaACasey/website](https://github.com/JoshuaACasey/website) - 
-- [JoshuaACasey/test](https://github.com/JoshuaACasey/test) - 
-- [JoshuaACasey/joshuacasey.net_comments](https://github.com/JoshuaACasey/joshuacasey.net_comments) - repository for utterances comments on joshuacasey.net
+- [JoshuaACasey/website](https://github.com/JoshuaACasey/website) - Git repo for joshuacasey.net
 
 ### 🔨 My recent Pull Requests
 
