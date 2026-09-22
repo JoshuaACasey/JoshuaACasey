@@ -40,11 +40,11 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### ⭐ Recent Stars
 
+- [hthienloc/dms-plugins](https://github.com/hthienloc/dms-plugins) - My DankMaterialShell plugins collection
 - [francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
 - [srevinsaju/zap](https://github.com/srevinsaju/zap) - :zap: Delightful AppImage package manager
 - [Spenquatch/unzone](https://github.com/Spenquatch/unzone) - A simple, safe utility to find and delete `Zone.Identifier` files.
 - [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog.
-- [FlavioAdamo/openfit](https://github.com/FlavioAdamo/openfit) - Desktop dashboard and Codex-powered assistant for Fitbit data
 
 ### 📰 Recent Blog Posts <a href="https://joshuacasey.net/posts/index.xml"><img alt="Static Badge" src="https://img.shields.io/badge/rss-FFA500.svg?style=for-the-badge&logo=rss&logoColor=white&labelColor=FFA500&color=FFA500" /></a>
 
