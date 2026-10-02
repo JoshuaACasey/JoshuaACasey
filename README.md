@@ -14,10 +14,10 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 
 ### Operating System
-<a href="https://winutil.christitus.com/userguide/microwin/" title="Windows 11 Home debloated with Chris Titus' WinUtil" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-windows-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-windows-dark.svg" /> <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-windows.svg" width="32" height="32" /> </picture> </a>
-<a href="https://cachyos.org" title="CachyOS with KDE desktop environment" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cachyos-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cachyos-dark.svg" /> <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cachyos.svg" width="32" height="32" /> </picture> </a>
-<a href="https://fedoraproject.org/" title="Fedora" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fedora-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fedora-dark.svg" /> <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fedora.svg" width="32" height="32" /> </picture> </a>
-<a href="https://www.debian.org/distrib/" title="Debian 13 for home server & for Windows Subsystem for Linux" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/debian-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/debian-dark.svg" /> <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/debian.svg" width="32" height="32" /> </picture> </a>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-windows-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-windows-dark.svg" /> <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-windows.svg" width="32" height="32" /> </picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cachyos-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cachyos-dark.svg" /> <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cachyos.svg" width="32" height="32" /> </picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fedora-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fedora-dark.svg" /> <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fedora.svg" width="32" height="32" /> </picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/debian-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/debian-dark.svg" /> <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/debian.svg" width="32" height="32" /> </picture>
 
 
 ### GitHub Stats
@@ -57,7 +57,6 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 ### 📫 How to reach me:
 <div align="center">
   <a href="https://joshuacasey.net"><img alt="Website" src="https://img.shields.io/badge/website-FF4088.svg?style=for-the-badge&logoColor=white&labelColor=FF4088&color=FF4088" /></a>
-  
   <a href="https://discord.com/users/joshuaacasey"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" /></a>
   <a href="https://matrix.to/#/@JoshuaCasey:matrix.org"><img alt="Matrix" src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000&color=000000" /></a>
   <a href="https://signal.me/#eu/pBm64iAenxD_oy1awnqwzFlJ_51Sc6eBzxabkrkur53LnpzjFbZLxp45YudATXT3"><img src="https://img.shields.io/badge/Signal-3B45FD.svg?style=for-the-badge&logo=Signal&logoColor=whit" /></a>
