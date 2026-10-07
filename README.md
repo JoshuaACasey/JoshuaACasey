@@ -35,9 +35,9 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### 🔨 My recent Pull Requests
 
+- [fix missing (404) streamplace-logo.svg in README.md](https://github.com/streamplace/streamplace/pull/1352) on [streamplace/streamplace](https://github.com/streamplace/streamplace)
 - [Add alias to delete Zone.Identifier files in WSL](https://github.com/ChrisTitusTech/mybash/pull/139) on [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash)
 - [Add alias to fix SSH permissions](https://github.com/ChrisTitusTech/mybash/pull/128) on [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash)
-- [fix: JSON structure in wrangler.jsonc](https://github.com/ascorbic/cirrus/pull/97) on [ascorbic/cirrus](https://github.com/ascorbic/cirrus)
 
 ### ⭐ Recent Stars
 
