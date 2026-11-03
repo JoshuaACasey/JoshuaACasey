@@ -42,11 +42,11 @@ src="https://img.shields.io/twitch/status/JoshuaACasey?logo=twitchsx&style=for-t
 
 ### ⭐ Recent Stars
 
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [ChrisTitusTech/titstack](https://github.com/ChrisTitusTech/titstack) - Codex and AI skills
 - [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 - [fady-saied/Nvidia-Fedora-Guide](https://github.com/fady-saied/Nvidia-Fedora-Guide) - A complete guide on getting Nvidia&#39;s Proprietary drivers for Fedora desktops (Workstation, KDE and Atomic) with instructions for Secure Boot and encrypted drives.
 - [gillesduif/iGloo](https://github.com/gillesduif/iGloo) - A Windows application that automates and simplifies migration to Linux, handling dual-boot installation, user data, browser sessions, GPU drivers and system settings.
-- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
 ### 📰 Recent Blog Posts <a href="https://joshuacasey.net/posts/index.xml"><img alt="Static Badge" src="https://img.shields.io/badge/rss-FFA500.svg?style=for-the-badge&logo=rss&logoColor=white&labelColor=FFA500&color=FFA500" /></a>
 
